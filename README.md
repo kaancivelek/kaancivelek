@@ -1,69 +1,57 @@
-# 👋 Hello, I'm Kaan Civelek!  
-### 💻 Software Engineering Student | 🌟 Passionate Developer
+# Hi, I'm Kaan Civelek
+**Software Engineering Student | Full-Stack & Backend / ML-Oriented Developer**
+
+I am a Software Engineering student with a background in web programming and hands-on IT support experience.  
+I focus on building **practical, end-to-end software solutions** with real data and production-oriented architectures.
 
 ---
 
-## 🎯 About Me
-I graduated from high school with a focus on Web Design and started my career in IT Consulting through an internship. Currently, I’m pursuing my degree in Software Engineering, constantly improving my knowledge and skills. I am passionate about contributing to dynamic projects and making technology more accessible.
-
-📌 **Areas of Expertise:**
-- **Web Design and Development**  
-- **IT Support and Consulting**  
-- **Creative Software Solutions for User-Centric Projects**
-
----
-
-## 📚 Education
-- 🎓 **Manisa Celal Bayar University**  
-  *Software Engineering Department*  
-- 🎓 **Vocational and Technical Anatolian High School**  
-  *Web Design and Development Graduate (2022)*  
+## Technical Focus
+- **Frontend:** HTML, CSS, JavaScript, TypeScript, React  
+- **Backend:** Python, C#, Java, RESTful APIs  
+- **Databases:** MSSQL, MySQL  
+- **Software Engineering:** OOP, SDLC, Software Testing, Requirement Analysis  
+- **Tools:** Git, GitHub, Docker (basic), Agile / Scrum
 
 ---
 
-## 🛠️ Technical Skills
-### **Programming Languages:**
-![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white)  
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)  
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)  
-![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white)  
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)  
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+## Selected Projects
+
+### **HAVIZ – Region-Specific Weather Forecasting System**
+**Tech:** ASP.NET MVC, Node.js, Django, MySQL, XGBoost  
+- Developed a service-oriented weather forecasting platform focused on the Konak district of Izmir.
+- Implemented an XGBoost-based machine learning model to generate low-cost, region-specific weather predictions.
+- Built a centralized backend service to orchestrate communication between data collection, prediction, and presentation layers.
+- Integrated historical weather data (2020–2024) and near real-time data via external APIs.
+- Applied REST-based inter-service communication with JWT-based authentication to ensure secure data flow.
+
+### **Minik – Tiny House Reservation System**
+**Tech:** React, ASP.NET Core, MSSQL  
+- Developed a full-stack reservation platform with role-based access control.
+- Implemented real-time availability management and booking conflict prevention.
+- Designed database schema and backend services for scalable reservation handling.
 
 ---
 
-## 🌟 Featured Projects
-### **1. IT Consulting Internship Projects**  
-- 📍 **Project Location:** Gelibolu Fen Lisesi  
-- 📅 **Period:** September 2021 - June 2022  
-- **Responsibilities:**
-  - Supported the institution's technological infrastructure to ensure its sustainability.
-  - Provided effective solutions to reduce the digital workload of staff.
-  - Conducted training to improve technology utilization.
-
-### **2. Web Design Projects**  
-- Developed simple yet effective web designs and user-friendly websites.  
-- Stay tuned for upcoming projects! 🚀  
+## Engineering Background
+- Strong foundation in **object-oriented programming, data structures, and system design**
+- Familiar with **clean code principles** and basic testing practices
+- Comfortable working across frontend, backend, and data-driven components
 
 ---
 
-## 🌍 Languages
-- **Turkish:** Native  
-- **English:** Intermediate  
+## Education
+**Manisa Celal Bayar University**  
+B.Sc. in Software Engineering (2023 – Present)
 
 ---
 
-## 🔗 Links
-- 📧 **Email:** businesskaancivelek17@gmail.com  
-- 💼 **LinkedIn:** [My LinkedIn](https://www.linkedin.com/in/kaan-civelek/)  
-- 🧩 **LeetCode:** [My LeetCode](https://leetcode.com/bkaancivelek/)
+## Languages
+- Turkish: Native  
+- English: B2 (Technical reading & documentation)
 
 ---
 
-## 📊 GitHub Stats
-![Kaan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kaancivelek&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kaancivelek&layout=compact&theme=radical)
-
----
-
-**✨ My Goal:** To be a part of dynamic projects, develop my skills further, and become an engineer who shapes the future of technology!
+## Contact & Profiles
+- Email: businesskaancivelek@gmail.com  
+- LinkedIn: https://www.linkedin.com/in/kaan-civelek  
